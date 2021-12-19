@@ -26,7 +26,7 @@ def start():
 #main
 root = tk.Tk()
 root.title('CURSORINFO')
-root.geometry('300x150')
+root.geometry('320x180')
 root.resizable(False, False)
 
 pyautogui.PAUSE = 0
